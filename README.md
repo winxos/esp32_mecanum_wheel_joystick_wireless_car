@@ -9,7 +9,7 @@ It's a self made wireless Mecanum wheels car controlled by joystick.
 
 Just for fun.
 
-![proj]( https://raw.githubusercontent.com/winxos/esp32_mecanum_wheel_joystick_wireless_car/master/images/proj.PNG )
+![proj]( ./images/proj.PNG )
 
 You can found operate video here
 
