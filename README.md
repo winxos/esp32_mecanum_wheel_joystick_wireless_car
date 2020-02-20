@@ -31,7 +31,7 @@ You can found operate video here
 
 File joystrick.py implement a simplest joystick controller in python, using pygame library.  It runs like
 
-![pygame-joystick]( https://raw.githubusercontent.com/winxos/esp32_mecanum_wheel_joystick_wireless_car/master/images/pygame-joystick.PNG )
+![pygame-joystick]( ./images/pygame-joystick.PNG )
 
 I used modbus-ascii as the communication protocol, if you are a newbie at modbus,  you may need to look  http://www.simplymodbus.ca/index.html  first.
 
@@ -97,11 +97,11 @@ That's joystick.py all.
 
 #### Car Body
 
-It's the cheapest car i can design.
+It's the cheapest Mecanum wheels car I can design.
 
-![IMG_20200219_151055]( https://raw.githubusercontent.com/winxos/esp32_mecanum_wheel_joystick_wireless_car/master/images/IMG_20200219_151055.jpg )
+![IMG_20200219_151055]( ./images/IMG_20200219_151055.jpg )
 
-![IMG_20200219_151108]( https://raw.githubusercontent.com/winxos/esp32_mecanum_wheel_joystick_wireless_car/master/images/IMG_20200219_151108.jpg )
+![IMG_20200219_151108]( ./images/IMG_20200219_151108.jpg )
 
 BOM
 
@@ -121,7 +121,7 @@ I use micropython to develop,
 
 so first you need to burn micropython firmware to your esp32, then you can use some software to develop such as uPyCraft.
 
-![esp32]( https://raw.githubusercontent.com/winxos/esp32_mecanum_wheel_joystick_wireless_car/master/images/esp32.PNG )
+![esp32]( ./images/esp32.PNG )
 
 ##### main.py
 
